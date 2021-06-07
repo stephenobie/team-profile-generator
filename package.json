@@ -1,0 +1,24 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^8.1.0",
+    "jest": "^27.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenobie/team-profile-generator.git"
+  },
+  "author": "Stephen Obie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephenobie/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/stephenobie/team-profile-generator#readme"
+}
